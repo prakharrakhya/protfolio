@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Pytorch , NLP , ML/DL Algorithms , Image processing , Django 
 
 ## Education
-- B.Tech, , Electrical and Electronics Engineering | National Institute of Technology Karnataka (2021 - present)								       		
+- B.Tech, , Electrical and Electronics Engineering , National Institute of Technology Karnataka (_2021 - present_)								       		
 
 ## Projects
 ### [A robust chatbot with memory management and low latency](https://prakharrakhyaprojects.pythonanywhere.com/chatboy/)
