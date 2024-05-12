@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, Django , Pytorch , NLP , ML/DL Algorithms
+#### Technical Skills: Python, Pytorch , NLP , ML/DL Algorithms , Image processing , Django 
 
 ## Education
 - B.Tech, , Electrical and Electronics Engineering | National Institute of Technology Karnataka (_May 2025_)								       		
@@ -20,6 +20,12 @@
 - Experience the power of a Transformer-based Recommendation System designed to provide personalized suggestions with precision and efficiency.
 - Enjoy low latency interactions as our recommendation engine swiftly tailors suggestions to your preferences in a matter of seconds.
 - Benefit from personalized profiles that enhance your experience, driven by a PyTorch-based model trained to adapt and optimize recommendations uniquely for you.
+
+### [Gaze And Emotion-Detection](https://github.com/prakharrakhya/Gaze-And-Emotion-Detection)
+- Used YOLOv4 to accurately detect faces and track gaze, enabling a complete analysis of where users direct their attention.
+- Used advanced algorithms to interpret facial expressions, providing insights into users' emotional states.
+- Used advanced image processing techniques to analyze and draw the analysis on top of videos
+- For sample outputs - [Outputs](https://drive.google.com/drive/folders/1-WgoL8Y7JKDZOj3Q3hzKk7SoH9MdWu87)
 
 ## Trainings
 ### Deep Neural Network Architecture:Transformers 
