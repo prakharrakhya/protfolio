@@ -16,7 +16,7 @@
 - Experience lightning-fast responses with our Semantic Search, boasting low latency to swiftly deliver relevant results tailored to each query.
 - Using the FAISS database, our Semantic Search integrates vector search capabilities, enhancing accuracy and efficiency in retrieving information based on BERT embeddings.
 
-### A Transformer-based Recommendation System for personalized recommendations
+### A Transformer-based Recommendation System for personalized recommendations - https://prakharrakhyaprojects.pythonanywhere.com/recommender/
 - Experience the power of a Transformer-based Recommendation System designed to provide personalized suggestions with precision and efficiency.
 - Enjoy low latency interactions as our recommendation engine swiftly tailors suggestions to your preferences in a matter of seconds.
 - Benefit from personalized profiles that enhance your experience, driven by a PyTorch-based model trained to adapt and optimize recommendations uniquely for you.
