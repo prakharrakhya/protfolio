@@ -30,6 +30,14 @@
 - Used advanced image processing techniques to analyze and draw the analysis on top of videos
 - For sample outputs - [Outputs](https://drive.google.com/drive/folders/1-WgoL8Y7JKDZOj3Q3hzKk7SoH9MdWu87)
 
+## Volunteer Experience
+### Unreal Engine , Project Developer
+- At National Institute of Technology, Karnataka
+- Conducted rigorous testing and validation of simulated experiments against empirical data, iterating on designs to achieve close alignment between virtual and physical outcomes
+- Developed advanced simulations using Unreal Engine to accurately model complex mechanical experiments, achieving high fidelity in real-time physics interactions
+- Optimized simulation performance through meticulous code refinement and utilization of Unreal Engine's built-in features
+
+
 ## Trainings
 ### Deep Neural Network Architecture:Transformers 
 - A course on what transformers , various ways to train them and on how to use pretrained one for you purposes.
