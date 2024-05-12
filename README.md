@@ -37,3 +37,7 @@
 ### Pytorch Course
 - A course on how to use pytorch framework to create and train Ai Models.
 
+## Contact - 
+### LinkedIn - [Prakhar Rakhya](https://www.linkedin.com/in/prakharrakhya/)
+### gmail - prakharrakhya@gmail.com
+
