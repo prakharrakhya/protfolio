@@ -1,4 +1,4 @@
-# Data Scientist
+# AI/ML Engineer and Developer
 
 #### Technical Skills: Python, Pytorch , NLP , ML/DL Algorithms , Image processing , Django 
 
