@@ -1,4 +1,4 @@
-# AI/ML Engineer and Data Analyst
+# Software Engineer and Project Developer
 
 #### Technical Skills: Python, Pytorch , NLP , ML/DL Algorithms , Image processing , Django 
 
